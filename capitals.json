@@ -254,8 +254,8 @@
     "QN": {
         "name": "Quảng Ngãi",
         "capital": "Quảng Ngãi",
-        "lat": "15",
-        "long": "108.667"
+        "lat": " ﻿15.123875",
+        "long": "108.811727"
     },
     "DN": {
         "name": "Đà Nẵng",
@@ -376,5 +376,35 @@
         "capital": "Cần Thơ",
         "lat": "10.033",
         "long": "105.783"
+    }
+	 "TH": {
+        "name": "Tuy Hòa",
+        "capital": "Tuy Hòa",
+        "lat": "13.08750",
+        "long": "109.31056"
+    }
+	"QNH": {
+        "name": "Quy Nhơn",
+        "capital": "Quy Nhơn",
+        "lat": "13.766667",
+        "long": "109.233333"
+    }
+	"DGH": {
+        "name": "Đồng Hới",
+        "capital": "Đồng Hới",
+        "lat": " ﻿17.44806",
+        "long": "106.58750"
+    }
+	"VH": {
+        "name": "Vinh",
+        "capital": "Vinh",
+        "lat": " ﻿18.676346",
+        "long": "105.676548"
+    }
+	"36": {
+        "name": "Hell",
+        "capital": "Hell",
+        "lat": " ﻿19.807222 ",
+        "long": "105.793611"
     }
 }
